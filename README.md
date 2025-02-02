@@ -14,8 +14,8 @@ A Streamlit app powered by **Llama 3.3** & **ChromaDB** for **real-time agricult
    ```bash
    git clone https://github.com/yourrepo/farmers-ai-advisor.git
    cd farmers-ai-advisor
-pip install -r requirements.txt
+```pip install -r requirements.txt
 
-python scraper.py
+```python scraper.py
 
-streamlit run app.py
+```streamlit run app.py
