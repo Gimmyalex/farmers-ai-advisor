@@ -1,0 +1,5 @@
+streamlit
+chromadb
+beautifulsoup4
+requests
+pandas
